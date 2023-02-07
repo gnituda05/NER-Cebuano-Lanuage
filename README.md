@@ -1,5 +1,6 @@
-# NER-Cebuano-Lanuage
-Named Entity Recognition for Cebuano-Lanuage using PYTHON
+# NER-Cebuano-Language
+
+Named Entity Recognition for Cebuano-Language using PYTHON
 
 
 # NER Model:
