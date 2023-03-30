@@ -8,7 +8,7 @@ Named Entity Recognition for Cebuano-Language using PYTHON
 
 
 # Annotation Tool for train data:
-- Im using NER Annotator for SpaCy 
+- NER Annotator for SpaCy 
 - https://tecoholic.github.io/ner-annotator/
 
 
